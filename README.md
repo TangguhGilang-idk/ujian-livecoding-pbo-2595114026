@@ -2,7 +2,7 @@
 
 1. Identitas
 Nama: Tangguh Gilang Saputra
-NIM: [Isi dengan NIM Anda, contoh: 2301001]
+NIM: 2595114026
 Program Studi: Teknik Informatika
 
 2. Kasus Pilihan
@@ -30,3 +30,4 @@ Studi Kasus 2 = 16:48:48
 6. Total Durasi
 Studi Kasus 1 = 01:05:31 (1 Jam, 5 Menit, 46 Detik)
 Studi Kasus 2 = 00:58:41 (0 Jam, 58 Menit, 41 Detik)
+Total Durasi = 02:04:12 (2 Jam, 4 Menit, 12 Detik)
