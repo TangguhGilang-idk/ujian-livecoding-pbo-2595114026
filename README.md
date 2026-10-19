@@ -20,13 +20,13 @@ Langkah-langkah:
    python kasus_1_nilai.py
 
 4. Waktu Mulai
-Studi Kasus 1 = 19:12:17
-Studi Kasus 2 = 19:41:10
+Studi Kasus 1 = 14:44:00
+Studi Kasus 2 = 15:49:57
 
 5. Waktu Selesai
-Studi Kasus 1 = 19:40:03
-Studi Kasus 2 = 20:09:35
+Studi Kasus 1 = 15:49:31
+Studi Kasus 2 = 16:48:48
 
 6. Total Durasi
-Studi Kasus 1 = 00:27:46 (27 Menit, 46 Detik)
-Studi Kasus 2 = 00:28:25 (28 Menit, 25 Detik)
+Studi Kasus 1 = 01:05:31 (1 Jam, 5 Menit, 46 Detik)
+Studi Kasus 2 = 00:58:41 (0 Jam, 58 Menit, 41 Detik)
